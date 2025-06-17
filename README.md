@@ -35,6 +35,7 @@ This script automates the setup of a full **DevOps development environment** on 
 
 ```bash
 git clone https://github.com/davmano/devops-setup-script.git
+cd devops-setup
 cd devops-setup-script
 ```
 
